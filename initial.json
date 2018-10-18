@@ -59,7 +59,8 @@
   ],
   "Strings": {
     "key_of_a": "This is the value of a.", 
-    "key_of_b" : "Here is a new value."
+    "key_of_b" : "Here is a new value.",
+    "key_of_c" : "Added this to the file"
   },
   "Metadata": {
     "ArticlesLastUpdated": "2018-09-23T19:00:54.000Z",
