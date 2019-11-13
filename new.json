@@ -60,7 +60,8 @@
   "Strings": {
     "key_of_d": "New value.", 
     "key_of_e" : "Second value.",
-    "key_of_f" : "Final value for testing."
+    "key_of_f" : "Final value for testing.",
+      "key_of_h": "Check the PR"
   },
   "Metadata": {
     "ArticlesLastUpdated": "2018-09-23T19:00:54.000Z",
