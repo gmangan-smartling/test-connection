@@ -72,6 +72,7 @@
   "Strings" : {
     "key_of_d" : "Der neue Wert.",
     "key_of_e" : "Der zweite Wert.",
+    "updated_key" : "Wert des Schlüssels",
     "key_of_f" : "Endwert für die Prüfung.",
     "key_of_h" : "Überprüfen Sie die PR"
   },
