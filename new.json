@@ -60,6 +60,7 @@
   "Strings": {
     "key_of_d": "New value.", 
     "key_of_e" : "Second value.",
+    "updated_key": "value of key",
     "key_of_f" : "Final value for testing.",
       "key_of_h": "Check the PR"
   },
